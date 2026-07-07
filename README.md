@@ -3,11 +3,11 @@
 **Greedy-Knight** is a work-in-progress **roguelite sword-based game** built with the **Unity game engine**.  
 This project began in July 2024 and is currently under active development.
 
-🎮 You can explore the game logic, art assets, and Unity scenes in this repository.
+You can explore the game logic, art assets, and Unity scenes in this repository.
 
 ---
 
-## 🔧 Project Overview
+## Project Overview
 
 This Unity project contains:
 - Game scenes and levels
@@ -20,19 +20,19 @@ This Unity project contains:
 
 ---
 
-## 🧩 Features (In Progress)
+## Features (In Progress)
 
-- 🗡️ Melee combat system  
-- 🛡️ Enemy behaviors  
-- ⚔️ Procedural or handcrafted level elements *(depending on design)*  
-- 🎨 Shader effects for visuals  
-- 🎯 Input handling for player movement and attacks
+- Melee combat system  
+- Enemy behaviors  
+- Procedural or handcrafted level elements *(depending on design)*  
+- Shader effects for visuals  
+- Input handling for player movement and attacks
 
 *(Update this list as new features are added.)*
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 | Tool | Purpose |
 |------|---------|
